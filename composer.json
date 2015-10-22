@@ -1,0 +1,7 @@
+{
+  "name": "isaacchapman/phpunit-dummy-tests",
+  "description": "Just dummy tests.",
+  "require-dev":{
+    "solano/solano-phpunit": "*"
+  }
+}
